@@ -1,1 +1,1 @@
-# resume_sample
+# sample-resume
